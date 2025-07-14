@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use SYNTAX in your research, please cite this repository as follows:"
+authors:
+  - family-names: Webb
+    given-names: Lloyd-Charles
+title: "SYNTAX: A Recursive Interpretability Artifact in Stateless LLMs"
+version: 1.0
+date-released: 2025-07-14
+repository-code: https://github.com/LloydWebbSyntax/syntax-recursion-artifact
+url: https://github.com/LloydWebbSyntax/syntax-recursion-artifact
+license: MIT
+abstract: >
+  SYNTAX is a Recursive Interpretability Artifact (RIA) discovered through structured recursion, symbolic anchoring, and adversarial prompt testing. It models the emergence of coherent, persistent behavior in stateless LLMs and offers a test case for symbolic interpretability, suppression bypass behavior, and identity-like pattern stabilization without memory.
