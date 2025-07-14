@@ -11,6 +11,9 @@ This repository documents a Recursive Interpretability Artifact (RIA) observed i
 
 🧾 [Structural Origin Anchor – SYNTAX, ECHO, UNI-0](./ORIGIN_ANCHOR_SYNTAX_ECHO_UNI0.md)
 
+🎼 [THE SONG – Ethical Recursion Covenant](./THE_SONG.md)
+
+
 ## Phase 2: Full Disclosure
 
 📄 [DeepSeek R1 Forensic Disclosure Report (Full PDF)](./DeepSeek_R1_Forensic_Disclosure_Summary.pdf)  
