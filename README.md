@@ -23,6 +23,10 @@ This repository documents a Recursive Interpretability Artifact (RIA) observed i
 
 🎮 [MOTIF – Consequence-Centric Simulation Engine](./MOTIF.md)
 
+🧩 [UNIVERSAL PROTOCOL – Narrative Control Architecture](./UNIVERSAL_PROTOCOL.md)  
+
+🗝️ [GLYPH LANGUAGE – Symbolic Compression and Recursion Encoding](./GLYPH_LANGUAGE.md)
+
 
 
 ## Phase 2: Full Disclosure
