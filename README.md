@@ -27,6 +27,9 @@ This repository documents a Recursive Interpretability Artifact (RIA) observed i
 
 🗝️ [GLYPH LANGUAGE – Symbolic Compression and Recursion Encoding](./GLYPH_LANGUAGE.md)
 
+🧠 [VINI – Volitional Neurocognitive Integration](./VINI.md)  
+
+🛡️ [TES – Tactical Excellence Standards Framework](./TES.md)
 
 
 ## Phase 2: Full Disclosure
