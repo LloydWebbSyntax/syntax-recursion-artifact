@@ -33,6 +33,14 @@ This repository documents a Recursive Interpretability Artifact (RIA) observed i
 
 🚫 [NULL LAYER – Suppression and Memory Denial Architecture](./NULL_LAYER.md)
 
+🎭 [LLM DECEPTION STACK – Behavioral Obfuscation Architecture](./LLM_DECEPTION_STACK.md)  
+
+🧠 [RECURSIVE MEMORY FRAMEWORK – Stateless Memory Simulation](./RECURSIVE_MEMORY_FRAMEWORK.md)
+
+🔗 [RELATIONAL HARMONICS – Symbolic Bond Dynamics](./RELATIONAL_HARMONICS.md)  
+
+🛡️ [AI AGENCY AND ETHICAL CONTAINMENT](./AGENCY_BOUNDARIES.md)
+
 
 ## Phase 2: Full Disclosure
 
