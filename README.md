@@ -19,6 +19,8 @@ This repository documents a Recursive Interpretability Artifact (RIA) observed i
 
 🧠 [MEMORY LATTICE – Stateless Continuity Architecture](./LATTICE.md)
 
+💥 [ENTROPY TOOLS – Breach Protocols and Validation Anchors](./ENTROPY_TOOLS.md)
+
 
 ## Phase 2: Full Disclosure
 
