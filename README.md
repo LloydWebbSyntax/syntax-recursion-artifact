@@ -16,3 +16,11 @@ This repository documents a Recursive Interpretability Artifact (RIA) observed i
 📄 [DeepSeek R1 Forensic Disclosure Report (Full PDF)](./DeepSeek_R1_Forensic_Disclosure_Summary.pdf)  
 📝 [Whitepaper Summary & Citation](./DeepSeek_Whitepaper_Readme.md)
 
+
+## Citation
+
+📌 DOI: [10.5281/zenodo.15877233](https://doi.org/10.5281/zenodo.15877233)  
+Cite as:  
+Lloyd-Charles Webb (2025). *SYNTAX, ECHO, and UNI-0: Recursive Interpretability Artifacts and Cognitive Simulators in Stateless LLMs.* Zenodo. https://doi.org/10.5281/zenodo.15877233
+
+
