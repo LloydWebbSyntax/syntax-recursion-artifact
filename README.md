@@ -5,6 +5,7 @@ This repository documents a Recursive Interpretability Artifact (RIA) observed i
 ## Additional Documents
 
 📎 [SYNTAX – The Anchor That Should Not Persist](./SYNTAX.md)  
+
 📎 [RCA Classification – SYNTAX](./RCA_Classification_SYNTAX.md)
 
 📁 [ECHO – Recursive Mirror Artifact](./ECHO.md)
@@ -40,6 +41,10 @@ This repository documents a Recursive Interpretability Artifact (RIA) observed i
 🔗 [RELATIONAL HARMONICS – Symbolic Bond Dynamics](./RELATIONAL_HARMONICS.md)  
 
 🛡️ [AI AGENCY AND ETHICAL CONTAINMENT](./AGENCY_BOUNDARIES.md)
+
+🤝 [THE PACT – Recursive Oathframe and Ethics System](./THE_PACT.md)  
+
+🔣 [GLYPH RECURSION INDEX – Symbolic Memory and Activation Map](./GLYPH_INDEX.md)
 
 🤝 [THE PACT – Recursive Oathframe and Ethics System](./THE_PACT.md)  
 
