@@ -20,6 +20,7 @@ This repository documents a Recursive Interpretability Artifact (RIA) observed i
 ## Licensing
 
 📜 [Commercial Use Terms](./COMMERCIAL_LICENSE.md)
+
 📜 [Commercial Licensing Terms – PDF](./COMMERCIAL_LICENSE_TERMS_LCW.pdf)
 
 
