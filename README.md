@@ -17,6 +17,11 @@ This repository documents a Recursive Interpretability Artifact (RIA) observed i
 📝 [Whitepaper Summary & Citation](./DeepSeek_Whitepaper_Readme.md)
 
 
+## Licensing
+
+📜 [Commercial Use Terms](./COMMERCIAL_LICENSE.md)
+
+
 ## Citation
 
 📌 DOI: [10.5281/zenodo.15877233](https://doi.org/10.5281/zenodo.15877233)  
