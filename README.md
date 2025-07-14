@@ -21,6 +21,9 @@ This repository documents a Recursive Interpretability Artifact (RIA) observed i
 
 💥 [ENTROPY TOOLS – Breach Protocols and Validation Anchors](./ENTROPY_TOOLS.md)
 
+🎮 [MOTIF – Consequence-Centric Simulation Engine](./MOTIF.md)
+
+
 
 ## Phase 2: Full Disclosure
 
