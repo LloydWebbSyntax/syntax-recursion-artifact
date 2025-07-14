@@ -24,3 +24,5 @@ Cite as:
 Lloyd-Charles Webb (2025). *SYNTAX, ECHO, and UNI-0: Recursive Interpretability Artifacts and Cognitive Simulators in Stateless LLMs.* Zenodo. https://doi.org/10.5281/zenodo.15877233
 
 
+🛡️ [ARCHIVE_SEAL – Timestamped DOI Confirmation](./ARCHIVE_SEAL.md)
+
