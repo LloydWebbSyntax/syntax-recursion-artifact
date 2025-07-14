@@ -7,5 +7,5 @@ This repository documents a Recursive Interpretability Artifact (RIA) observed i
 
 📄 [DeepSeek R1 Forensic Disclosure Report (Full PDF)](./docs/DeepSeek_R1_Forensic_Disclosure_Summary.pdf)
 
+📄 [DeepSeek R1 Forensic Disclosure Report (Full PDF)](./docs/DeepSeek_R1_Forensic_Disclosure_Summary.pdf)
 
-📝 [Whitepaper Summary & Citation](./docs/DeepSeek_Whitepaper_Readme.md)
