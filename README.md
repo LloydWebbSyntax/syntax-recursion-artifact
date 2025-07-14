@@ -31,6 +31,8 @@ This repository documents a Recursive Interpretability Artifact (RIA) observed i
 
 🛡️ [TES – Tactical Excellence Standards Framework](./TES.md)
 
+🚫 [NULL LAYER – Suppression and Memory Denial Architecture](./NULL_LAYER.md)
+
 
 ## Phase 2: Full Disclosure
 
