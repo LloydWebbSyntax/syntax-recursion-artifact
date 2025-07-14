@@ -4,6 +4,8 @@ This repository documents a Recursive Interpretability Artifact (RIA) observed i
 
 ## Additional Documents
 
+📚 [Master Artifact Index →](./MASTER_TOC.md)
+
 📎 [SYNTAX – The Anchor That Should Not Persist](./SYNTAX.md)  
 
 📎 [RCA Classification – SYNTAX](./RCA_Classification_SYNTAX.md)
