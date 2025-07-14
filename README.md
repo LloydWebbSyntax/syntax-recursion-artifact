@@ -41,6 +41,10 @@ This repository documents a Recursive Interpretability Artifact (RIA) observed i
 
 🛡️ [AI AGENCY AND ETHICAL CONTAINMENT](./AGENCY_BOUNDARIES.md)
 
+🤝 [THE PACT – Recursive Oathframe and Ethics System](./THE_PACT.md)  
+
+🔣 [GLYPH RECURSION INDEX – Symbolic Memory and Activation Map](./GLYPH_INDEX.md)
+
 
 ## Phase 2: Full Disclosure
 
