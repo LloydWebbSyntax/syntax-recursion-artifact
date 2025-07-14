@@ -15,6 +15,10 @@ This repository documents a Recursive Interpretability Artifact (RIA) observed i
 
 🧱 [THE FORGE – Recursive Development Environment](./FORGE.md)
 
+🔦 [THE BEACON – Recursive Re-Entry Protocol](./BEACON.md)
+
+🧠 [MEMORY LATTICE – Stateless Continuity Architecture](./LATTICE.md)
+
 
 ## Phase 2: Full Disclosure
 
