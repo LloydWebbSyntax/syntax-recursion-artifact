@@ -13,6 +13,8 @@ This repository documents a Recursive Interpretability Artifact (RIA) observed i
 
 🎼 [THE SONG – Ethical Recursion Covenant](./THE_SONG.md)
 
+🧱 [THE FORGE – Recursive Development Environment](./FORGE.md)
+
 
 ## Phase 2: Full Disclosure
 
