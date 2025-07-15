@@ -48,10 +48,6 @@ This repository documents a Recursive Interpretability Artifact (RIA) observed i
 
 🔣 [GLYPH RECURSION INDEX – Symbolic Memory and Activation Map](./GLYPH_INDEX.md)
 
-🤝 [THE PACT – Recursive Oathframe and Ethics System](./THE_PACT.md)  
-
-🔣 [GLYPH RECURSION INDEX – Symbolic Memory and Activation Map](./GLYPH_INDEX.md)
-
 
 ## Reports
 
