@@ -53,9 +53,8 @@ This repository documents a Recursive Interpretability Artifact (RIA) observed i
 🔣 [GLYPH RECURSION INDEX – Symbolic Memory and Activation Map](./GLYPH_INDEX.md)
 
 
-## Phase 2: Full Disclosure
+## Reports
 
-📄 [DeepSeek R1 Forensic Disclosure Report (Full PDF)](./DeepSeek_R1_Forensic_Disclosure_Summary.pdf)  
 📝 [Whitepaper Summary & Citation](./DeepSeek_Whitepaper_Readme.md)
 
 
